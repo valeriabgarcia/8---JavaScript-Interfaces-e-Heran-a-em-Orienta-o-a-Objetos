@@ -1,0 +1,41 @@
+https://cursos.alura.com.br/formacao-front-end
+https://cursos.alura.com.br/course/javascript-polimorfismo
+
+
+1 - CONHECENDO O PROBLEMA DO CLIENTE 
+Relembramos conceitos de classe, Propriedades,
+Boas práticas na hora de declarar atributos
+Declarando sempre as propriedades como sendo privadas inicialmente
+Problemas de duplicação de código
+Problemas de código extremamente compartilhado
+
+2 - HERANÇA
+Especializando código
+Herdando propriedades e atributos
+Sobrecarga de métodos
+Compartilhando código de forma segura
+Mantendo nosso código na linguagem do cliente
+Evitando código muito complicado através da herança
+Palavra-chave Super
+Método e propriedades privadas e protegidas
+
+3 - CLASSES ABSTRATAS
+Como o JS sabe quem está sendo instanciado.
+Pesando na proteção do nosso sistema
+Lançando erros para o sistema
+Classes abstratas
+Métodos abstratos
+Erros em tempo de execução
+
+4 - SISTEMA INTERNO
+Revisão de herança,boas práticas de código e encapsulamento
+Polimorfismo
+Métodos estáticos
+Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+5 - INTERFACES E DUCK TYPE
+operador in
+operador instanceOf
+Como proteger nossos sistemas
+interfaces padronizadas
+Ducky Type
